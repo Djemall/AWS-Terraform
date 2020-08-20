@@ -7,3 +7,8 @@
  - Renseigner la clef SSH lors de la configuration de la VM
 
 
+# Se connecter à la VM
+
+- Faire un chmod 400 sur le fichier ssh.pem
+- Se connecter à la machine grace a l'adresse IP de la machine avec la commande :
+  "ssh -i ./votrefichierssh.pem ubuntu@ip
