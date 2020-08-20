@@ -24,10 +24,12 @@ ubuntu@ip-172-31-44-116:~$ sudo apt -y update && sudo -y apt upgrade
 ubuntu@ip-172-31-44-116:~$ sudo apt -y update && sudo -y apt upgrade
 ```
 ```
-sudo wget -O - http://localhost/
+ubuntu@ip-172-31-44-116:~$ sudo wget -O - http://localhost/
 ```
 ```
-sudo apt -y install w3m
+ubuntu@ip-172-31-44-116:~$ sudo apt -y install w3m
 ```
-sudo w3m http://localhost/
+```
+ubuntu@ip-172-31-44-116:~$ sudo w3m http://localhost/
+
 
