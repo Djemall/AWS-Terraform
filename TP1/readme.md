@@ -29,6 +29,7 @@ ubuntu@ip-172-31-44-116:~$ sudo wget -O - http://localhost/
 ```
 ubuntu@ip-172-31-44-116:~$ sudo apt -y install w3m
 ```
+```
 ubuntu@ip-172-31-44-116:~$ sudo w3m http://localhost/
 ```
 
