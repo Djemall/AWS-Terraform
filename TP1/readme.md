@@ -1,4 +1,4 @@
-# Projet AWS terraform
+# Projet AWS : Partie installation d'une VM
 
 # Créer une VM
 
