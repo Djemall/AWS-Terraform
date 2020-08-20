@@ -11,4 +11,4 @@
 
 - Faire un chmod 400 sur le fichier ssh.pem
 - Se connecter à la machine grace a l'adresse IP de la machine avec la commande :
-  "ssh -i ./votrefichierssh.pem ubuntu@ip
+  "ssh -i ./votrefichierssh.pem ubuntu@ip"
